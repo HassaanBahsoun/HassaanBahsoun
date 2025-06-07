@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hello, I'm Hassaan (yes double-A)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&color=15CB1A&background=000000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Dedicated+Learner;Open+Source+Lover;Aspiring+Sage;%23!FLAG-you-found-me;%24+sudo+rm+-rf+%2F)](https://git.io/typing-svg)
@@ -59,3 +61,4 @@
 ## 🎯 Fun Fact
 💡 I love CTF comps. No, there is no flag here (or is there...)
 
+</div>
