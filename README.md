@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hassaan (yes double-A)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&color=15CB1A&background=000000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Dedicated+Learner;Open+Source+Lover;Aspiring+Sage;%23!FLAG-you-found-me-%3A(;%24+sudo+rm+-rf+%2F)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&color=15CB1A&background=000000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Dedicated+Learner;Open+Source+Lover;Aspiring+Sage;%23!FLAG-you-found-me-%3A(;%24+sudo+rm+-rf+%2F)]
 
 ---
 
