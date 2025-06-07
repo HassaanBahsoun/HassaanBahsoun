@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Hassaan (yes double-A)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&color=15CB1A&background=000000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Dedicated+Learner;Open+Source+Lover;Aspiring+Sage;%23!FLAG-you-found-me-%3A(;%24+sudo+rm+-rf+%2F)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=2000&color=15CB1A&background=000000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Dedicated+Learner;Open+Source+Lover;Aspiring+Sage;%23!FLAG-you-found-me-%3A(;%24+sudo+rm+-rf+%2F)](https://git.io/typing-svg)
 
 ---
 
@@ -21,7 +21,7 @@
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
