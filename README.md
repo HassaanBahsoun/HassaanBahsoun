@@ -31,7 +31,6 @@
 
 ## 🧑‍💻 Programming Languages
 
-[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
